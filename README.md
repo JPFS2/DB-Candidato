@@ -1,2 +1,2 @@
-# DB_ELEITOR
+# DB_Candidato
 Pesquisa de voto
